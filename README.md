@@ -19,8 +19,9 @@ You should see the gatsby site in your browser address bar at [http://localhost:
 
 ## Unit Testing
 
-How to configure jest [here](https://www.gatsbyjs.com/docs/how-to/testing/unit-testing/)
-How to test react components? [here](https://www.gatsbyjs.com/docs/how-to/testing/testing-react-components/)
+How to configure Jest [here](https://www.gatsbyjs.com/docs/how-to/testing/unit-testing/).
+
+How to test React components? [here](https://www.gatsbyjs.com/docs/how-to/testing/testing-react-components/)
 
 Run jest tests
 ```
